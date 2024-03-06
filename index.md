@@ -4,3 +4,5 @@
 #### This is the header h4 of markdown
 ##### This is the header h5 of markdown
 ###### This is the header h6 of markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
