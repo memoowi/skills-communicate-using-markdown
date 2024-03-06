@@ -2,6 +2,7 @@
 
 ## Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of memoowi](https://avatars.githubusercontent.com/u/142039165?v=4)
 
 ## Code Mark
 ### none mark
@@ -16,9 +17,11 @@ var myVar = "Hello, world!";
 ### dart mark
 ``` dart
 String myString = "Hello, world!";
+Int myNumberOfInt = 1;
 ```
 ## task list
 INI APA YA
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [X] Introduce myself to the world
+- [ ] Nyoba second commit
