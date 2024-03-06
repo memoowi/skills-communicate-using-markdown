@@ -24,7 +24,6 @@ Int myNumberOfInt = 1;
 
 Daftar List checkbox
 - [X] Introduce myself to the world
-- [ ] Nyoba third commit
 - [ ] Hidup Sehat
 - [ ] more productive
 
@@ -34,9 +33,6 @@ Daftar List checkbox
 _this is italic. shortcut is `Ctrl + I`_
 ***Bold and Italic***
 **Bold and _nested italic_ too**
-
-This is a <sub>subscript</sub> text
-This is a <sup>superscript</sup> text
 
 ## Quoting Text
 
