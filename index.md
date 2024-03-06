@@ -1,26 +1,32 @@
 # This is the header h1 of markdown
 
-## Image
 ![Image of memoowi](https://avatars.githubusercontent.com/u/142039165?v=4)
 
 ## Code Mark
-### none mark
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+Tanda / Mark
+
 ### javascript mark
+
+marked JS
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
 ### dart mark
+
+this one marked dart
 ``` dart
 String myString = "Hello, world!";
 Int myNumberOfInt = 1;
 ```
+
 ## task list
+
+Daftar List checkbox
 - [X] Introduce myself to the world
-- [ ] Nyoba second commit
+- [ ] Nyoba third commit
+- [ ] Hidup Sehat
+- [ ] more productive
 
 ## Styling Text
 
@@ -34,12 +40,13 @@ This is a <sup>superscript</sup> text
 
 ## Quoting Text
 
-Text that is not a quote
+This text is not a quote
 
 > Text that is a quote
+> Another Quote
 
 
-Use `git status` to list all new or modified files that haven't yet been committed.
+Use `git status` to list all new or edited/modified files that haven't yet been committed.
 
 ## Color Model
 
