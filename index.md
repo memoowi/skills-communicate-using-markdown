@@ -26,6 +26,7 @@ Daftar List checkbox
 - [X] Introduce myself to the world
 - [ ] Hidup Sehat
 - [ ] more productive
+- [ ] be a vampire
 
 ## Styling Text
 
