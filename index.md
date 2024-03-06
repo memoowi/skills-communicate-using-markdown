@@ -43,13 +43,12 @@ This is a <sup>superscript</sup> text
 This text is not a quote
 
 > Text that is a quote
-> Another Quote
-
 
 Use `git status` to list all new or edited/modified files that haven't yet been committed.
 
 ## Color Model
 
+idk why the color circle didnt appear
 The background color is `##0B69D7` for light mode and `rgb(0,0,255)` for dark mode.
 
 ## Links
